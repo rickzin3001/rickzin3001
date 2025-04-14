@@ -7,7 +7,7 @@
 
 ---
 
-### 💻 Sobre mim
+###  Sobre mim
 
 - 🔨 Trabalho principalmente com **HTML**
 - 📚 Estudando **HTML**, **CSS** e **JavaScript**
